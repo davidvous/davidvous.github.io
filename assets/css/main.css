@@ -251,6 +251,26 @@ input, select, textarea {
 			}
 
 		}
+	.container__fun {
+		display: flex;
+		gap: 0.3rem;
+	}
+		.container__fun img {
+		width: 40%;
+		height: auto;
+		object-fit:cover;
+		}
+
+	.container__skills {
+		display: flex;
+		justify-content: center;
+		gap: 0.3rem;
+	}
+
+		.container__skills img {
+		width: 10%;
+		height: auto;
+		}
 
 /* Row */
 
